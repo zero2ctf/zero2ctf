@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Happy Jekylling!"
+title: "Zero2CTF"
 ---
 
 ## You're ready to go!
